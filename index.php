@@ -56,9 +56,6 @@ curl_close($ch);
 ?>
 
 <head>
-    <pre style="font-size: 8px; overflow: scroll; height: 250px">
-        <?php var_dump($data); ?>
-    </pre>
     <title>La proxima pelicula de Marvel</title>
     <meta name="description" content="La proxima pelicula de Marvel" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
